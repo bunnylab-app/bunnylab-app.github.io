@@ -1,4 +1,4 @@
-# UseWorth / 物账本 支持页面 Support Page
+# UseWorth / 物账本 / 物帳本 / モノ帳 支持页面 Support Page
 
 ## 🌐 Language / 语言 / 語言 / 言語
 - [English](#english)
